@@ -7,6 +7,7 @@
 # what
 
 * reading the open source code of linux deepin 
+* learn from the community
 
 # how
 
