@@ -11,3 +11,7 @@
 
 # how
 
+1. use v23
+1. build
+1. read
+1. debug
