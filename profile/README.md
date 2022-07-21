@@ -11,7 +11,10 @@
 
 # how
 
-1. use v23
+1. begin from 2022.7.20
+1. use deepin
 1. build
 1. read
 1. debug
+1. ---------->2023.7.15
+1.未来可期
