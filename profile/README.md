@@ -20,3 +20,6 @@
 1. read
 1. debug
 
+# projects
+
+* https://github.com/orgs/linuxdeepin365/repositories?q=&type=all&language=&sort=name
