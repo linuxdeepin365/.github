@@ -1,3 +1,5 @@
+# just for fun
+
 ## why
 
 * deepin v23 based on debian11 
